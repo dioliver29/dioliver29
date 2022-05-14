@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://komarev.com/ghpvc/?username=dioliver29)
+
 -->
 
 <h1 >Hi there, I'm <a href="https://github.com/dioliver29/" target="_blank">Diana</a> 
@@ -21,5 +23,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dioliver29&show_icons=true&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=dioliver29)
-
+📫 You can reach me: <a href="mailto:d.stikheeva@gmail.com">e-mail</a> | <a href="https://www.linkedin.com/in/diana-stikheeva/" rel="nofollow">LinkedIn</a> | <a href="https://t.me/di_oliver" rel="nofollow">Telegram</a>
