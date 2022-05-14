@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/dioliver29/" target="_blank">Diana</a> 
+<h1 >Hi there, I'm <a href="https://github.com/dioliver29/" target="_blank">Diana</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">QA-engineer</h3>
+<h3 >QA-engineer</h3>
 
-<h1 align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dioliver29&show_icons=true&theme=tokyonight)
 
-<h1 align="center">![](https://komarev.com/ghpvc/?username=dioliver29)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dioliver29&show_icons=true&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=dioliver29)
 
