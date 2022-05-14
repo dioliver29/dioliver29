@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=dioliver29)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dioliver29&show_icons=true&theme=tokyonight)
