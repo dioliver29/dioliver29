@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **dioliver29/dioliver29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">QA-engineer</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dioliver29&show_icons=true&theme=tokyonight)
+<h1 align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dioliver29&show_icons=true&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=dioliver29)
+<h1 align="center">![](https://komarev.com/ghpvc/?username=dioliver29)
 
